@@ -1,0 +1,20 @@
+creando rueda coche
+creando freno coche
+creando chasis coche
+poniendo rueda1
+poniendo rueda1
+poniendo rueda3
+poniendo rueda4
+poniendo freno1
+poniendo freno2
+poniendo freno3
+poniendo freno4
+poniendo chasis
+creando rueda moto
+creando freno moto
+creando chasis moto
+poniendo rueda1
+poniendo rueda2
+poniendo freno1
+poniendo freno2
+poniendo chasis
